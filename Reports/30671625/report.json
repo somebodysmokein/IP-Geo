@@ -1,0 +1,3728 @@
+{
+  "totalScreenshots": 144,
+  "totalSnapshots": 6,
+  "buildURL": "https://percy.io/385b3df5/4Over-usecase/builds/30671625",
+  "unreviewedScreenshots": 1,
+  "unreviewedSnapshots": 1,
+  "widths": [
+    375,
+    480,
+    720,
+    1280,
+    1440,
+    1920
+  ],
+  "browsers": [
+    "Safari",
+    "Chrome",
+    "Firefox",
+    "Edge"
+  ],
+  "devices": [],
+  "projectURL": "https://percy.io/385b3df5/4Over-usecase",
+  "buildNumber": 50,
+  "projectName": "4Over-usecase",
+  "details": [
+    {
+      "id": "1693808353",
+      "name": "Front Panel",
+      "review-state": "approved",
+      "review-state-reason": "no_diffs",
+      "fingerprint": null,
+      "total-open-comments": 0,
+      "is-reintroduced": false,
+      "enable-javascript": false,
+      "scope-selector": "div.jss45 > div.jss30 > div.jss31 > div > div",
+      "metadata": {
+        "enable_layout": false
+      },
+      "comparisons": [
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/86329335684e9ef86e67a213e40087c2d2d4a91ed0efcc5185036455b286840a",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/08c56e3251f833ff1702efbd9faa3acf2f0195aca58e9ff83b47a472ecdaa566",
+              "width": 375,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/e001af5a4584415014e3153f92b94ae999b5bd1ac2acd90f26f00f13716f6447",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/08c56e3251f833ff1702efbd9faa3acf2f0195aca58e9ff83b47a472ecdaa566",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/b3d3f062aee3ae493830e0ae5e10a54ef2c959993cd6da53c30ea82c142e9820",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/7d16605b035431601d2750727806810d59aa52a548da1731694d96d2771d9ef5",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/f7a1760359f8c8611ec1d99c6f9d78f9c479fcc92ed2fe6be627bef8d230f985",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/39ac709006b2bd85a331d9e268ac558a60f031e867777baccbd82d2bacdb664b",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/39ac709006b2bd85a331d9e268ac558a60f031e867777baccbd82d2bacdb664b",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/31d18f367d6c07f506006ee0c243c2bb654c56be2956027cc3efd486418325c8",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/31d18f367d6c07f506006ee0c243c2bb654c56be2956027cc3efd486418325c8",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/39ac709006b2bd85a331d9e268ac558a60f031e867777baccbd82d2bacdb664b",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/0267b927bb5fef9eb94d540c3e30e9de175f528d4e78558dd18ded717c2836c9",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/0267b927bb5fef9eb94d540c3e30e9de175f528d4e78558dd18ded717c2836c9",
+              "width": 375,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/0267b927bb5fef9eb94d540c3e30e9de175f528d4e78558dd18ded717c2836c9",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/0267b927bb5fef9eb94d540c3e30e9de175f528d4e78558dd18ded717c2836c9",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/46cbf405a290b53e390a0ace6f6e0f173696ceddb792c5c294fd1dbc60241f7b",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/46cbf405a290b53e390a0ace6f6e0f173696ceddb792c5c294fd1dbc60241f7b",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/490310468c4fe4f029edc8712f27a1426957848fd1b6562d33c7e04e223ceee1",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/490310468c4fe4f029edc8712f27a1426957848fd1b6562d33c7e04e223ceee1",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/490310468c4fe4f029edc8712f27a1426957848fd1b6562d33c7e04e223ceee1",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/490310468c4fe4f029edc8712f27a1426957848fd1b6562d33c7e04e223ceee1",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/490310468c4fe4f029edc8712f27a1426957848fd1b6562d33c7e04e223ceee1",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/490310468c4fe4f029edc8712f27a1426957848fd1b6562d33c7e04e223ceee1",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/fe4ad1da07f9c43033bd9abc2387b4bc26bd534bd137740d631425c6aab72f2c",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/fe4ad1da07f9c43033bd9abc2387b4bc26bd534bd137740d631425c6aab72f2c",
+              "width": 375,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/fe4ad1da07f9c43033bd9abc2387b4bc26bd534bd137740d631425c6aab72f2c",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/fe4ad1da07f9c43033bd9abc2387b4bc26bd534bd137740d631425c6aab72f2c",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/8aacaa427b1b52a877cf68aab06d32e14d1d2fd813014e05faaf648e23396992",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/8aacaa427b1b52a877cf68aab06d32e14d1d2fd813014e05faaf648e23396992",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/da29144a700d4bef2e3f1ee44ffc7fd7b3714bef410645eda5ec5c1820a98528",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/da29144a700d4bef2e3f1ee44ffc7fd7b3714bef410645eda5ec5c1820a98528",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/da29144a700d4bef2e3f1ee44ffc7fd7b3714bef410645eda5ec5c1820a98528",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/da29144a700d4bef2e3f1ee44ffc7fd7b3714bef410645eda5ec5c1820a98528",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/da29144a700d4bef2e3f1ee44ffc7fd7b3714bef410645eda5ec5c1820a98528",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/da29144a700d4bef2e3f1ee44ffc7fd7b3714bef410645eda5ec5c1820a98528",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/97f74f001302f6c836af124f879ad7d406a133554aa09489925e87bc87516869",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/97f74f001302f6c836af124f879ad7d406a133554aa09489925e87bc87516869",
+              "width": 375,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/97f74f001302f6c836af124f879ad7d406a133554aa09489925e87bc87516869",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/97f74f001302f6c836af124f879ad7d406a133554aa09489925e87bc87516869",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/c6406cf19aebb8cc952e16793c2a3aff192acba85a7fc08812c4e547a6e23678",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/c6406cf19aebb8cc952e16793c2a3aff192acba85a7fc08812c4e547a6e23678",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/75ee32da6fe2ab2a7e05345a75bd0c457799bd586f52986773fe7169b48929a9",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/75ee32da6fe2ab2a7e05345a75bd0c457799bd586f52986773fe7169b48929a9",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/75ee32da6fe2ab2a7e05345a75bd0c457799bd586f52986773fe7169b48929a9",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/75ee32da6fe2ab2a7e05345a75bd0c457799bd586f52986773fe7169b48929a9",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/75ee32da6fe2ab2a7e05345a75bd0c457799bd586f52986773fe7169b48929a9",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/75ee32da6fe2ab2a7e05345a75bd0c457799bd586f52986773fe7169b48929a9",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "1693808368",
+      "name": "Back Panel",
+      "review-state": "approved",
+      "review-state-reason": "no_diffs",
+      "fingerprint": null,
+      "total-open-comments": 0,
+      "is-reintroduced": false,
+      "enable-javascript": false,
+      "scope-selector": "div.jss45 > div.jss30 > div.jss32 > div > div",
+      "metadata": {
+        "enable_layout": false
+      },
+      "comparisons": [
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/7cf9ddbc6be8959e1d72ada98c7d6830f6453286ee456d6527d1bb5540579f55",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/7cf9ddbc6be8959e1d72ada98c7d6830f6453286ee456d6527d1bb5540579f55",
+              "width": 375,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/c3b0a2ca12fb50fa6d1c26e18f681751fbc35c25cc3787c7b98aa6dc64be820d",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/c3b0a2ca12fb50fa6d1c26e18f681751fbc35c25cc3787c7b98aa6dc64be820d",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/ebea5fb8b9546c684650e6b6bf933f82e7729623e202f23aaa02f691e18fd741",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/ebea5fb8b9546c684650e6b6bf933f82e7729623e202f23aaa02f691e18fd741",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/760320457759b329c6d59cf6198d94180dcfc7cfa2d62d5934cfd8fcc68b0302",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/760320457759b329c6d59cf6198d94180dcfc7cfa2d62d5934cfd8fcc68b0302",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/59d4470da4a10977c1d2b2199363ee2905cb0a304ccb8786bfb32d8efdc0918c",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/59d4470da4a10977c1d2b2199363ee2905cb0a304ccb8786bfb32d8efdc0918c",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/760320457759b329c6d59cf6198d94180dcfc7cfa2d62d5934cfd8fcc68b0302",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/59d4470da4a10977c1d2b2199363ee2905cb0a304ccb8786bfb32d8efdc0918c",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/f39e9a7d3ea1e627b7db6f7e167ebd49b9bb0cbc14e3007ecfc1d6198649ac70",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/f39e9a7d3ea1e627b7db6f7e167ebd49b9bb0cbc14e3007ecfc1d6198649ac70",
+              "width": 375,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/53fea4fd1b5e66d0f48ee6796fe6a1fe01fecec603319a6f4b6e4a1a26671e52",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/53fea4fd1b5e66d0f48ee6796fe6a1fe01fecec603319a6f4b6e4a1a26671e52",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/63c7f781fe5d8ff4f38c119f856a6fed28ed37412b1c909717e59a4c209a1261",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/63c7f781fe5d8ff4f38c119f856a6fed28ed37412b1c909717e59a4c209a1261",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/f74756acba5eb87913ca2f42029c4f4653d1b4efdd0ba46a42f8b59d9c839181",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/f74756acba5eb87913ca2f42029c4f4653d1b4efdd0ba46a42f8b59d9c839181",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/f74756acba5eb87913ca2f42029c4f4653d1b4efdd0ba46a42f8b59d9c839181",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/f74756acba5eb87913ca2f42029c4f4653d1b4efdd0ba46a42f8b59d9c839181",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/f74756acba5eb87913ca2f42029c4f4653d1b4efdd0ba46a42f8b59d9c839181",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/f74756acba5eb87913ca2f42029c4f4653d1b4efdd0ba46a42f8b59d9c839181",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/58df5cb6bf2da36c5897afe2587b8c0fb4271d2e9ec6fbc60e3a0c2f4c2c8ed4",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/58df5cb6bf2da36c5897afe2587b8c0fb4271d2e9ec6fbc60e3a0c2f4c2c8ed4",
+              "width": 375,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/6a9f4f48597688c2b54a047be0d8411ada199eceb599cbd8574e267a50781f2c",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/6a9f4f48597688c2b54a047be0d8411ada199eceb599cbd8574e267a50781f2c",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/0be10c1b42005c2cddca3509e3c895e51398182619dbe001b6ea376d827e729c",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/0be10c1b42005c2cddca3509e3c895e51398182619dbe001b6ea376d827e729c",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/dd2e3818d5c055e4ed8cea92790ed5b0b201ee2589330d455f4e3659c85908d4",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/dd2e3818d5c055e4ed8cea92790ed5b0b201ee2589330d455f4e3659c85908d4",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/dd2e3818d5c055e4ed8cea92790ed5b0b201ee2589330d455f4e3659c85908d4",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/dd2e3818d5c055e4ed8cea92790ed5b0b201ee2589330d455f4e3659c85908d4",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/dd2e3818d5c055e4ed8cea92790ed5b0b201ee2589330d455f4e3659c85908d4",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/dd2e3818d5c055e4ed8cea92790ed5b0b201ee2589330d455f4e3659c85908d4",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/64d30ba68857d748f2a5e8a01d2e94f62200836b9bfe5480d1a489323d240d12",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/64d30ba68857d748f2a5e8a01d2e94f62200836b9bfe5480d1a489323d240d12",
+              "width": 375,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/b7f9412c48871ef56a12e05932792d2cf71958fa68ef5394dd255d3fa3e923f4",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/b7f9412c48871ef56a12e05932792d2cf71958fa68ef5394dd255d3fa3e923f4",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/4c341f81bc38a8eec1b0c97adb87c6a033b029d52bcce7b90d34b9c8837c333a",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/4c341f81bc38a8eec1b0c97adb87c6a033b029d52bcce7b90d34b9c8837c333a",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/80c26214ac0170748c1c94655e1873915ccdc35020ee2c1ce0760f3049b8a5c5",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/80c26214ac0170748c1c94655e1873915ccdc35020ee2c1ce0760f3049b8a5c5",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/80c26214ac0170748c1c94655e1873915ccdc35020ee2c1ce0760f3049b8a5c5",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/80c26214ac0170748c1c94655e1873915ccdc35020ee2c1ce0760f3049b8a5c5",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/80c26214ac0170748c1c94655e1873915ccdc35020ee2c1ce0760f3049b8a5c5",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/80c26214ac0170748c1c94655e1873915ccdc35020ee2c1ce0760f3049b8a5c5",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "1693808398",
+      "name": "Main Canvas Back Panel",
+      "review-state": "approved",
+      "review-state-reason": "no_diffs",
+      "fingerprint": null,
+      "total-open-comments": 0,
+      "is-reintroduced": false,
+      "enable-javascript": true,
+      "scope-selector": "div#workspace > div.boxesHolderContainer > div#BoxesHolder > div#PrintableArea > div#C4mCanvasArtHolder > img#imgMain",
+      "metadata": {
+        "enable_layout": false
+      },
+      "comparisons": [
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/6928e1631a936bb32c6960f64dab509a6b4ea2ac8454621f88063527b14a128d",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/ba2e01c99a2a5b26697fa0a4a3a4b08c061d976f1173f62afd44f3973239b93b",
+              "width": 375,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/d4eee410e6a6de83d359e4b7c112fc3ae9fcc94166d61f3f3287fa9875683e48",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/9b10e34e56005ce0926005a3454275a4ecc02d4625ec41db544e324192e14952",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/b94673146dd74c15ff3bbf71d81da1591f3a68544ac1eeaee3fa629c494c523e",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/f21c3ca53733586291f05d6a350a5c1793f74d36bd5800fbca36976156ffd114",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/f21c3ca53733586291f05d6a350a5c1793f74d36bd5800fbca36976156ffd114",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/f21c3ca53733586291f05d6a350a5c1793f74d36bd5800fbca36976156ffd114",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/0d6570727d2fdca03d8e31ffe5bfa989243e51c13ed5c3cf553136f19648eaea",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/b94673146dd74c15ff3bbf71d81da1591f3a68544ac1eeaee3fa629c494c523e",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/f21c3ca53733586291f05d6a350a5c1793f74d36bd5800fbca36976156ffd114",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/b94673146dd74c15ff3bbf71d81da1591f3a68544ac1eeaee3fa629c494c523e",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/b886d96763850e02b76df78d9ebaf87975e7fb28da45d4026ddd3586f1b1ba91",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/b886d96763850e02b76df78d9ebaf87975e7fb28da45d4026ddd3586f1b1ba91",
+              "width": 375,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/6d519312ead52a82f61a64a9af57d24c26229a6c24a11efaee2664dbe39c9a5c",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/6d519312ead52a82f61a64a9af57d24c26229a6c24a11efaee2664dbe39c9a5c",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/acf9ef091cd4c619333ee480eb70148c392f132602a12a39e3c6b69899364670",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/acf9ef091cd4c619333ee480eb70148c392f132602a12a39e3c6b69899364670",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/acf9ef091cd4c619333ee480eb70148c392f132602a12a39e3c6b69899364670",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/acf9ef091cd4c619333ee480eb70148c392f132602a12a39e3c6b69899364670",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/acf9ef091cd4c619333ee480eb70148c392f132602a12a39e3c6b69899364670",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/acf9ef091cd4c619333ee480eb70148c392f132602a12a39e3c6b69899364670",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/acf9ef091cd4c619333ee480eb70148c392f132602a12a39e3c6b69899364670",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/acf9ef091cd4c619333ee480eb70148c392f132602a12a39e3c6b69899364670",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/b12efd715482a807f12c9f3b262ec40b4077fec95478c069adec412f0322d60e",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/b12efd715482a807f12c9f3b262ec40b4077fec95478c069adec412f0322d60e",
+              "width": 375,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/6a273c95e503f5787194bca5f3651709867a59835ea09e339aaa4d1bdc408fa9",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/6a273c95e503f5787194bca5f3651709867a59835ea09e339aaa4d1bdc408fa9",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/f554ba4430aed6f471b591b0ddeeb2df5a9f500baf14bc909ccb20cc7e2c0f30",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/f554ba4430aed6f471b591b0ddeeb2df5a9f500baf14bc909ccb20cc7e2c0f30",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/f554ba4430aed6f471b591b0ddeeb2df5a9f500baf14bc909ccb20cc7e2c0f30",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/f554ba4430aed6f471b591b0ddeeb2df5a9f500baf14bc909ccb20cc7e2c0f30",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/f554ba4430aed6f471b591b0ddeeb2df5a9f500baf14bc909ccb20cc7e2c0f30",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/f554ba4430aed6f471b591b0ddeeb2df5a9f500baf14bc909ccb20cc7e2c0f30",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/f554ba4430aed6f471b591b0ddeeb2df5a9f500baf14bc909ccb20cc7e2c0f30",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/f554ba4430aed6f471b591b0ddeeb2df5a9f500baf14bc909ccb20cc7e2c0f30",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/b886d96763850e02b76df78d9ebaf87975e7fb28da45d4026ddd3586f1b1ba91",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/b886d96763850e02b76df78d9ebaf87975e7fb28da45d4026ddd3586f1b1ba91",
+              "width": 375,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/6d519312ead52a82f61a64a9af57d24c26229a6c24a11efaee2664dbe39c9a5c",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/6d519312ead52a82f61a64a9af57d24c26229a6c24a11efaee2664dbe39c9a5c",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/acf9ef091cd4c619333ee480eb70148c392f132602a12a39e3c6b69899364670",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/acf9ef091cd4c619333ee480eb70148c392f132602a12a39e3c6b69899364670",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/acf9ef091cd4c619333ee480eb70148c392f132602a12a39e3c6b69899364670",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/acf9ef091cd4c619333ee480eb70148c392f132602a12a39e3c6b69899364670",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/acf9ef091cd4c619333ee480eb70148c392f132602a12a39e3c6b69899364670",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/acf9ef091cd4c619333ee480eb70148c392f132602a12a39e3c6b69899364670",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/acf9ef091cd4c619333ee480eb70148c392f132602a12a39e3c6b69899364670",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/acf9ef091cd4c619333ee480eb70148c392f132602a12a39e3c6b69899364670",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "1693808442",
+      "name": "Main Canvas Front Panel",
+      "review-state": "approved",
+      "review-state-reason": "no_diffs",
+      "fingerprint": null,
+      "total-open-comments": 0,
+      "is-reintroduced": false,
+      "enable-javascript": true,
+      "scope-selector": "div#workspace > div.boxesHolderContainer > div#BoxesHolder > div#PrintableArea > div#C4mCanvasArtHolder > img#imgMain",
+      "metadata": {
+        "enable_layout": false
+      },
+      "comparisons": [
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/ed0e91cca4bf007e17c0a790919206554a168d8f6f952eccb75869783d986e1c",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/ed0e91cca4bf007e17c0a790919206554a168d8f6f952eccb75869783d986e1c",
+              "width": 375,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/96fcd6fec01bedd2d3e8908417cc032756fd8dc506ade832e81ce22f98ace143",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/96fcd6fec01bedd2d3e8908417cc032756fd8dc506ade832e81ce22f98ace143",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/5d40692d2d0232a3a8cdb961b1141abd42f731c3972aace7af4c9d848835bc62",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/5d40692d2d0232a3a8cdb961b1141abd42f731c3972aace7af4c9d848835bc62",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/5d40692d2d0232a3a8cdb961b1141abd42f731c3972aace7af4c9d848835bc62",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/5d40692d2d0232a3a8cdb961b1141abd42f731c3972aace7af4c9d848835bc62",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/6b91615349d814e0d550890369e605a191ab699559fd1e4d7f09cf5dd92cca7b",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/5d40692d2d0232a3a8cdb961b1141abd42f731c3972aace7af4c9d848835bc62",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/33a8688f1f3c3b8a93c34103848440d0f5672ab3f1d1da175c00a96f66e9011d",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/5d40692d2d0232a3a8cdb961b1141abd42f731c3972aace7af4c9d848835bc62",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/cf8be514d6a964e11710bcbda2d40c52dfb5894e058e05a6276b3c5e66f0c862",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/cf8be514d6a964e11710bcbda2d40c52dfb5894e058e05a6276b3c5e66f0c862",
+              "width": 375,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/1c6c92f79e338ad1501c109a16e12140ac6aa1c2ff8fc822187890ec0f94c195",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/1c6c92f79e338ad1501c109a16e12140ac6aa1c2ff8fc822187890ec0f94c195",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/76c76f8486b38892369d837267d2d4fdf613088219d225f83d28982b9ea6e5bf",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/76c76f8486b38892369d837267d2d4fdf613088219d225f83d28982b9ea6e5bf",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/76c76f8486b38892369d837267d2d4fdf613088219d225f83d28982b9ea6e5bf",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/76c76f8486b38892369d837267d2d4fdf613088219d225f83d28982b9ea6e5bf",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/76c76f8486b38892369d837267d2d4fdf613088219d225f83d28982b9ea6e5bf",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/76c76f8486b38892369d837267d2d4fdf613088219d225f83d28982b9ea6e5bf",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/76c76f8486b38892369d837267d2d4fdf613088219d225f83d28982b9ea6e5bf",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/76c76f8486b38892369d837267d2d4fdf613088219d225f83d28982b9ea6e5bf",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/7953d4b71e7619c1c3d0fcea25e07b3d8bc2416fed2b208135cac0949b7d920f",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/7953d4b71e7619c1c3d0fcea25e07b3d8bc2416fed2b208135cac0949b7d920f",
+              "width": 375,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/5cb6932740b59145d3aae9224622879b08f041f17729fe31ed325eb78eb75493",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/5cb6932740b59145d3aae9224622879b08f041f17729fe31ed325eb78eb75493",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/be2fe90bef7f62fc2ece484fb7a570835b14f40e35e0088cbf02a2ba8f6a6de8",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/be2fe90bef7f62fc2ece484fb7a570835b14f40e35e0088cbf02a2ba8f6a6de8",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/be2fe90bef7f62fc2ece484fb7a570835b14f40e35e0088cbf02a2ba8f6a6de8",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/be2fe90bef7f62fc2ece484fb7a570835b14f40e35e0088cbf02a2ba8f6a6de8",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/be2fe90bef7f62fc2ece484fb7a570835b14f40e35e0088cbf02a2ba8f6a6de8",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/be2fe90bef7f62fc2ece484fb7a570835b14f40e35e0088cbf02a2ba8f6a6de8",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/be2fe90bef7f62fc2ece484fb7a570835b14f40e35e0088cbf02a2ba8f6a6de8",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/be2fe90bef7f62fc2ece484fb7a570835b14f40e35e0088cbf02a2ba8f6a6de8",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/cf8be514d6a964e11710bcbda2d40c52dfb5894e058e05a6276b3c5e66f0c862",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/cf8be514d6a964e11710bcbda2d40c52dfb5894e058e05a6276b3c5e66f0c862",
+              "width": 375,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/1c6c92f79e338ad1501c109a16e12140ac6aa1c2ff8fc822187890ec0f94c195",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/1c6c92f79e338ad1501c109a16e12140ac6aa1c2ff8fc822187890ec0f94c195",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/76c76f8486b38892369d837267d2d4fdf613088219d225f83d28982b9ea6e5bf",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/76c76f8486b38892369d837267d2d4fdf613088219d225f83d28982b9ea6e5bf",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/76c76f8486b38892369d837267d2d4fdf613088219d225f83d28982b9ea6e5bf",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/76c76f8486b38892369d837267d2d4fdf613088219d225f83d28982b9ea6e5bf",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/76c76f8486b38892369d837267d2d4fdf613088219d225f83d28982b9ea6e5bf",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/76c76f8486b38892369d837267d2d4fdf613088219d225f83d28982b9ea6e5bf",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/76c76f8486b38892369d837267d2d4fdf613088219d225f83d28982b9ea6e5bf",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/76c76f8486b38892369d837267d2d4fdf613088219d225f83d28982b9ea6e5bf",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "1693808467",
+      "name": "Main Canvas Front Panel Right Rotated",
+      "review-state": "approved",
+      "review-state-reason": "no_diffs",
+      "fingerprint": null,
+      "total-open-comments": 0,
+      "is-reintroduced": false,
+      "enable-javascript": true,
+      "scope-selector": "div#workspace > div.boxesHolderContainer > div#BoxesHolder > div#PrintableArea > div#C4mCanvasArtHolder > img#imgMain",
+      "metadata": {
+        "enable_layout": false
+      },
+      "comparisons": [
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/744f589b70229ffe0cf0253fed9e49a040ac900e2b5a6acdfd74064704987ce8",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/7617558a65067bf35176ca69358cc6f5c43dffbd90ab62163695e2ae773ba849",
+              "width": 375,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/1a6cf936b01c359aed113c16f0797eb8d2cc8a8a454efadfae443f7bba96dac7",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/1a6cf936b01c359aed113c16f0797eb8d2cc8a8a454efadfae443f7bba96dac7",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/bfe8fe4838c017b5cc0497c6ee1d62c7ee0f030553e1e2c83a0bcc94fdc62354",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/bfe8fe4838c017b5cc0497c6ee1d62c7ee0f030553e1e2c83a0bcc94fdc62354",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/d9cebabbf3abe595e21b881f7cb7bc8e37a340121d3920ebdf0c29a3fab2cb46",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/110d4d2cd261a9c8808f5edae82d62bb219941d00e637df1e159261983375126",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/242750a3e26728c3558afb0d0bf1721c8eae6f69bb55e92f6a2d3ef78891f4d7",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/d9cebabbf3abe595e21b881f7cb7bc8e37a340121d3920ebdf0c29a3fab2cb46",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/d9cebabbf3abe595e21b881f7cb7bc8e37a340121d3920ebdf0c29a3fab2cb46",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/d9cebabbf3abe595e21b881f7cb7bc8e37a340121d3920ebdf0c29a3fab2cb46",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/ab1acf020c5916513a3833f8c514f4543b3ecb628a1bfc134bbf1ceef133caac",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/ab1acf020c5916513a3833f8c514f4543b3ecb628a1bfc134bbf1ceef133caac",
+              "width": 375,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/cf45a813c1ec878d6053927cb0554c8253a2adfac1855dbecb92b371d045e459",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/cf45a813c1ec878d6053927cb0554c8253a2adfac1855dbecb92b371d045e459",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/c8034a44bc8c300c73ecaab927f3075fc8784a4fe84ed39b202ed809fa0d4d01",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/c8034a44bc8c300c73ecaab927f3075fc8784a4fe84ed39b202ed809fa0d4d01",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/569c248d22d70add0ab4085691a49757a37e986dffc4e6ac12c2cbd6c7edcc73",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/569c248d22d70add0ab4085691a49757a37e986dffc4e6ac12c2cbd6c7edcc73",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/569c248d22d70add0ab4085691a49757a37e986dffc4e6ac12c2cbd6c7edcc73",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/569c248d22d70add0ab4085691a49757a37e986dffc4e6ac12c2cbd6c7edcc73",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/569c248d22d70add0ab4085691a49757a37e986dffc4e6ac12c2cbd6c7edcc73",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/569c248d22d70add0ab4085691a49757a37e986dffc4e6ac12c2cbd6c7edcc73",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/521e73b1587c1f80f1b15ff0490ae0e7ff2ccf3ca51741057e73d8281552b9a8",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/521e73b1587c1f80f1b15ff0490ae0e7ff2ccf3ca51741057e73d8281552b9a8",
+              "width": 375,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/8d282c828169d524ceb14aa7755a1192d304436a8d1a8a187ede5784470ec9fc",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/8d282c828169d524ceb14aa7755a1192d304436a8d1a8a187ede5784470ec9fc",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/7372573493f99f19e97af40a92871052f9b7d22b426c9a4234a04ba8eef2c19d",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/7372573493f99f19e97af40a92871052f9b7d22b426c9a4234a04ba8eef2c19d",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/8d4c5c981b0f271173b474225e97e57c2fcdd9090e310798584eaa105c7c3c42",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/8d4c5c981b0f271173b474225e97e57c2fcdd9090e310798584eaa105c7c3c42",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/8d4c5c981b0f271173b474225e97e57c2fcdd9090e310798584eaa105c7c3c42",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/8d4c5c981b0f271173b474225e97e57c2fcdd9090e310798584eaa105c7c3c42",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/8d4c5c981b0f271173b474225e97e57c2fcdd9090e310798584eaa105c7c3c42",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/8d4c5c981b0f271173b474225e97e57c2fcdd9090e310798584eaa105c7c3c42",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/ca0a229fa64d125993c7e26385374ce3bf58557ef73485087502f08abc4c5306",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/ca0a229fa64d125993c7e26385374ce3bf58557ef73485087502f08abc4c5306",
+              "width": 375,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/6779d80f98b577236d5d31c0027647c7c8b0ac900fe8b3317561aa07e9369e9a",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/6779d80f98b577236d5d31c0027647c7c8b0ac900fe8b3317561aa07e9369e9a",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/78a002e34694d42be1ef6543d310b86fcdf65c038b33122ed225cb0f17078d6c",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/78a002e34694d42be1ef6543d310b86fcdf65c038b33122ed225cb0f17078d6c",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/800849e1c7b815aa1167ecb249ba5f570af426ff790e37f9c904072bc3a1989b",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/800849e1c7b815aa1167ecb249ba5f570af426ff790e37f9c904072bc3a1989b",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/800849e1c7b815aa1167ecb249ba5f570af426ff790e37f9c904072bc3a1989b",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/800849e1c7b815aa1167ecb249ba5f570af426ff790e37f9c904072bc3a1989b",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/800849e1c7b815aa1167ecb249ba5f570af426ff790e37f9c904072bc3a1989b",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/800849e1c7b815aa1167ecb249ba5f570af426ff790e37f9c904072bc3a1989b",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "1693808476",
+      "name": "Front Panel Right Rotated",
+      "review-state": "unreviewed",
+      "review-state-reason": "unreviewed_comparisons",
+      "fingerprint": "9ae19bbc299d24c1cad91d122e87d51cad87ebf0",
+      "total-open-comments": 0,
+      "is-reintroduced": false,
+      "enable-javascript": false,
+      "scope-selector": "div.jss45 > div.jss30 > div.jss32 > div > div",
+      "metadata": {
+        "enable_layout": false
+      },
+      "comparisons": [
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/a29b783737b430dbc7cc9e341b1b2fbce6fad7dc0fdb62410ad5cf7f5e884c98",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/a29b783737b430dbc7cc9e341b1b2fbce6fad7dc0fdb62410ad5cf7f5e884c98",
+              "width": 375,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/a29b783737b430dbc7cc9e341b1b2fbce6fad7dc0fdb62410ad5cf7f5e884c98",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/1977d9de2dacecfb4eea3fc9408ed21095d60e1576f483a2c15735aa55c212ba",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/329e4fb7bed4cf8ec824fce107e22c402a77aedb86c59ad71440b9c1f80f6e10",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/329e4fb7bed4cf8ec824fce107e22c402a77aedb86c59ad71440b9c1f80f6e10",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/d5d2da9804afd1592e056bf7b2e790d91bec87e02723563686d67769cd76dc0c",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/d5d2da9804afd1592e056bf7b2e790d91bec87e02723563686d67769cd76dc0c",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/d5d2da9804afd1592e056bf7b2e790d91bec87e02723563686d67769cd76dc0c",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/d5d2da9804afd1592e056bf7b2e790d91bec87e02723563686d67769cd76dc0c",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/d5d2da9804afd1592e056bf7b2e790d91bec87e02723563686d67769cd76dc0c",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/d5d2da9804afd1592e056bf7b2e790d91bec87e02723563686d67769cd76dc0c",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Safari",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0.00377353,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/0300e6a70b8bd75f8cf24150c1d1c5802522eebbdffce33ad928e1fa99fd652c",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/18ccbea3682e921ee5944d39c748c67614cdd3a31b1b3e9aeddc879a2e317a6b",
+              "width": 375,
+              "height": 1222
+            },
+            "diff": {
+              "url": "https://images.percy.io/1ac033ce5800f533cf543cc25078324579b017811064ec69442935d098f08ede",
+              "width": 264,
+              "height": 264
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.38",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/0300e6a70b8bd75f8cf24150c1d1c5802522eebbdffce33ad928e1fa99fd652c",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/0300e6a70b8bd75f8cf24150c1d1c5802522eebbdffce33ad928e1fa99fd652c",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/4fe6c198922cd4b4552c138eb4a487f2427402e414fae10411923ff6d7175e17",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/4fe6c198922cd4b4552c138eb4a487f2427402e414fae10411923ff6d7175e17",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/b0b5d60fc676a81704cf1a8b8036bdc0c736e45bb572e61a59f48d4989e1feb4",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/b0b5d60fc676a81704cf1a8b8036bdc0c736e45bb572e61a59f48d4989e1feb4",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/b0b5d60fc676a81704cf1a8b8036bdc0c736e45bb572e61a59f48d4989e1feb4",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/b0b5d60fc676a81704cf1a8b8036bdc0c736e45bb572e61a59f48d4989e1feb4",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/b0b5d60fc676a81704cf1a8b8036bdc0c736e45bb572e61a59f48d4989e1feb4",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/b0b5d60fc676a81704cf1a8b8036bdc0c736e45bb572e61a59f48d4989e1feb4",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Chrome",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/4fcb1e7321f2c2b639bec15a70c547f3f4a723044bbb71dc33dc3f87a0ed10af",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/4fcb1e7321f2c2b639bec15a70c547f3f4a723044bbb71dc33dc3f87a0ed10af",
+              "width": 375,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/4fcb1e7321f2c2b639bec15a70c547f3f4a723044bbb71dc33dc3f87a0ed10af",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/4fcb1e7321f2c2b639bec15a70c547f3f4a723044bbb71dc33dc3f87a0ed10af",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/d23c0840e159c08b75ec0b8e9df1fe27e9666b3487664747daf8eb2a2b562e73",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/d23c0840e159c08b75ec0b8e9df1fe27e9666b3487664747daf8eb2a2b562e73",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/4e8ffc50739ce0157c1c9d695bc04f334ef3a3ca91a92dbabe3d1af349dea4c1",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/4e8ffc50739ce0157c1c9d695bc04f334ef3a3ca91a92dbabe3d1af349dea4c1",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/4e8ffc50739ce0157c1c9d695bc04f334ef3a3ca91a92dbabe3d1af349dea4c1",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/4e8ffc50739ce0157c1c9d695bc04f334ef3a3ca91a92dbabe3d1af349dea4c1",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/4e8ffc50739ce0157c1c9d695bc04f334ef3a3ca91a92dbabe3d1af349dea4c1",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/4e8ffc50739ce0157c1c9d695bc04f334ef3a3ca91a92dbabe3d1af349dea4c1",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Firefox",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 375,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/f2a2db28dcf6ca9647832b40b30b2162d862e2ccb8cb37cea8fd6252c979351a",
+              "width": 375,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/f2a2db28dcf6ca9647832b40b30b2162d862e2ccb8cb37cea8fd6252c979351a",
+              "width": 375,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 480,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/f2a2db28dcf6ca9647832b40b30b2162d862e2ccb8cb37cea8fd6252c979351a",
+              "width": 480,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/f2a2db28dcf6ca9647832b40b30b2162d862e2ccb8cb37cea8fd6252c979351a",
+              "width": 480,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 720,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/5d5872703abcc0bd7822dd5011f6a506516c72b3d0cf2e18bd2ed09993665144",
+              "width": 720,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/5d5872703abcc0bd7822dd5011f6a506516c72b3d0cf2e18bd2ed09993665144",
+              "width": 720,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1280,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/9ed8e46f0eee25acfc3923f6d39db3ff8b0038c169a7e5ececa3292bc13dd966",
+              "width": 1280,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/9ed8e46f0eee25acfc3923f6d39db3ff8b0038c169a7e5ececa3292bc13dd966",
+              "width": 1280,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1440,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/9ed8e46f0eee25acfc3923f6d39db3ff8b0038c169a7e5ececa3292bc13dd966",
+              "width": 1440,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/9ed8e46f0eee25acfc3923f6d39db3ff8b0038c169a7e5ececa3292bc13dd966",
+              "width": 1440,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        },
+        {
+          "state": "finished",
+          "width": 1920,
+          "diff-ratio": 0,
+          "diff-ratio-wo-context-diff": null,
+          "ignored-top": 0,
+          "ignored-bottom": 0,
+          "external-debug-url": null,
+          "new-and-unchanged-with-reviewed-baseline": false,
+          "images": {
+            "base": {
+              "url": "https://images.percy.io/9ed8e46f0eee25acfc3923f6d39db3ff8b0038c169a7e5ececa3292bc13dd966",
+              "width": 1920,
+              "height": 1222
+            },
+            "head": {
+              "url": "https://images.percy.io/9ed8e46f0eee25acfc3923f6d39db3ff8b0038c169a7e5ececa3292bc13dd966",
+              "width": 1920,
+              "height": 1222
+            }
+          },
+          "browser": "Edge",
+          "diff-percentage": "0.00",
+          "diff-color": "yellow"
+        }
+      ]
+    }
+  ]
+}
